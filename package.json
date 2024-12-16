@@ -1,0 +1,13 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "line-reader": "^0.4.0",
+        "node-red-contrib-buffer-parser": "~3.2.2",
+        "node-red-contrib-omron-fins": "~0.5.0",
+        "node-red-dashboard": "~3.6.5",
+        "node-red-node-ping": "~0.3.3"
+    }
+}
